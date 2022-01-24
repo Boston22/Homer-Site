@@ -1,0 +1,45 @@
+
+
+    body {
+
+
+
+
+font-family: 'TOP GUN', sans-serif;
+
+
+      background-image: url("https://thumbs.gfycat.com/FamiliarBossyGenet-size_restricted.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+
+   /* Center and scale the image nicely */
+   background-position: center;
+
+background-size: cover;
+    }
+    h1   {
+      color: gold;
+font-size: 50px;
+
+    }
+    p    {
+      color: white;
+font-size: 30px;
+
+    }
+
+
+img{
+height: ;
+
+}
+
+@font-face {
+    font-family: 'TOP GUN';
+    font-style: normal;
+    font-weight: 300;
+    src: local('TOP GUN'), url('https://fonts.cdnfonts.com/s/46740/TopGun-vmK0Z.woff') format('woff');
+}
+
+@import url('http://fonts.cdnfonts.com/css/top-gun');
