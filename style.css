@@ -1,38 +1,69 @@
+body {
 
-
-    body {
-
-
-
-
-font-family: 'TOP GUN', sans-serif;
-
+     font-family: 'TOP GUN', sans-serif;
 
       background-image: url("https://thumbs.gfycat.com/FamiliarBossyGenet-size_restricted.gif");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  height: 100%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      height: 100%;
 
-   /* Center and scale the image nicely */
-   background-position: center;
+      /* Center and scale the image nicely */
+      background-position: center;
 
-background-size: cover;
+      background-size: cover;
     }
-    h1   {
+
+h1   {
       color: gold;
-font-size: 50px;
+      font-size: 50px;
 
     }
-    p    {
+
+p    {
       color: white;
-font-size: 30px;
+      font-size: 30px;
 
     }
 
+img.picture{
+  border-right-style: dashed;
+  border-right-width: thin;
 
-img{
-height: ;
+  border-top-style: groove;
+  border-top-width: medium;
 
+  border-left-style: solid;
+  border-left-width: thick;
+
+  border-bottom-style: ridge;
+  border-bottom-width: thick;
+
+
+ }
+
+p.p1{
+  border-style: double;
+
+  border-width: medium;
+
+}
+
+p.p2{
+  border-style: double;
+
+  border-width: medium;
+}
+
+p.p3{
+  border-style: double;
+
+  border-width: medium;
+}
+
+p.p4{
+  border-style: double;
+
+  border-width: medium;
 }
 
 @font-face {
